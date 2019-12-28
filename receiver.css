@@ -1,0 +1,11 @@
+.background {
+  background: url("tejpcast/back.jpg") cover no-repeat;
+}
+
+.logo {
+  background: url("tejpcast/logo.jpg");
+}
+
+.splash {
+  background: url("tejpcast/splash.jpg");
+}
