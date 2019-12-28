@@ -3,9 +3,9 @@
 }
 
 .logo {
-  background: url("https://raw.githubusercontent.com/ThaCheeseBun/TejpCast/master/tejpcast.png");
+  background: url("https://raw.githubusercontent.com/ThaCheeseBun/TejpCast/master/tejpcast.png") center no-repeat;
 }
 
 .splash {
-  background: url("https://raw.githubusercontent.com/ThaCheeseBun/TejpCast/master/splash_tejpcast.png");
+  background: url("https://raw.githubusercontent.com/ThaCheeseBun/TejpCast/master/tejpcast.png") center no-repeat;
 }
