@@ -1,11 +1,11 @@
 .background {
-  background: url("tejpcast/back.jpg") cover no-repeat;
+  background: url("https://raw.githubusercontent.com/ThaCheeseBun/TejpCast/master/receiver-background.png") cover no-repeat;
 }
 
 .logo {
-  background: url("tejpcast/logo.jpg");
+  background: url("https://raw.githubusercontent.com/ThaCheeseBun/TejpCast/master/tejpcast.png");
 }
 
 .splash {
-  background: url("tejpcast/splash.jpg");
+  background: url("https://raw.githubusercontent.com/ThaCheeseBun/TejpCast/master/splash_tejpcast.png");
 }
